@@ -41,4 +41,4 @@
 - 원격 저장소를 통칭할 때는 remote이라고 하고,
 - 근원이 되는 저장소 하나를 부를 때는 주로 origin이라는 이름을 붙여 식별한다.
 
-(edit from local) 
+(edit from GitHub)
